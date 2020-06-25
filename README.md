@@ -22,5 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 <img src="screenshot_4.png" width="200" height="400">
 <img src="screenshot_5.png" width="200" height="400">
 <img src="screenshot_6.png" width="200" height="400">
+<img src="screenshot_7.png" width="200" height="400">
+<img src="screenshot_8.png" width="200" height="400">
 <div>
 
